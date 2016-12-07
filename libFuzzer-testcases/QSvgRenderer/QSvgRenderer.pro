@@ -11,4 +11,4 @@ QT += svg
 # Input
 SOURCES += qsvgrenderer.cpp
 
-LIBS += -L/home/peter/dev/fuzzers -lFuzzer
+LIBS += -lFuzzer

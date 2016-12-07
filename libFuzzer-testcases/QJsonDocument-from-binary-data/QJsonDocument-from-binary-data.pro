@@ -9,4 +9,4 @@ INCLUDEPATH += .
 # Input
 SOURCES += qjsondocument-from-binary-data.cpp
 
-LIBS += -L/home/peter/dev/fuzzers -lFuzzer
+LIBS += -lFuzzer

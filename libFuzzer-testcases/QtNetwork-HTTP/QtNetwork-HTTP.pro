@@ -11,4 +11,4 @@ QT = core network
 # Input
 SOURCES += qtnetwork-http.cpp
 
-LIBS += -L/home/peter/dev/fuzzers -lFuzzer
+LIBS += -lFuzzer

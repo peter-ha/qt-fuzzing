@@ -9,4 +9,4 @@ INCLUDEPATH += .
 # Input
 SOURCES += qimage-from-data.cpp
 
-LIBS += -L/home/peter/dev/fuzzers -lFuzzer
+LIBS += -lFuzzer

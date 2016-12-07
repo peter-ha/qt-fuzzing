@@ -9,4 +9,4 @@ INCLUDEPATH += .
 # Input
 SOURCES += qurl.cpp
 
-LIBS += -L/home/peter/dev/fuzzers -lFuzzer
+LIBS += -lFuzzer
