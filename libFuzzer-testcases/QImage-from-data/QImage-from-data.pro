@@ -8,5 +8,3 @@ INCLUDEPATH += .
 
 # Input
 SOURCES += qimage-from-data.cpp
-
-LIBS += -lFuzzer

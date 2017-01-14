@@ -8,5 +8,3 @@ INCLUDEPATH += .
 
 # Input
 SOURCES += qurl.cpp
-
-LIBS += -lFuzzer

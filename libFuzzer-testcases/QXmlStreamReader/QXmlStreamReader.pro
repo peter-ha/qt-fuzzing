@@ -8,5 +8,3 @@ INCLUDEPATH += .
 
 # Input
 SOURCES += qxmlstreamreader.cpp
-
-LIBS += -lFuzzer
